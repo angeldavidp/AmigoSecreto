@@ -1,7 +1,7 @@
 # AmigoSecreto
 Proyecto reto practicando lógica de programación, creamos una aplicacion web interactiva para organizar un sorteo de amigo secreto. El usuario ingresa nombres de particiapntes y luego selecciona aletoriamente un amigo de la lista.
 
-#Tecnologías Utilizadas
+##Tecnologías Utilizadas
 #HTML: Estructura de la página.
 #CSS: Estilos y diseño responsivo.
 #JavaScript: Lógica de funcionamiento.
