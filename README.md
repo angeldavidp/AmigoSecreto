@@ -24,4 +24,6 @@ Cómo Usar
 - Presionar "Sortear" para elegir un amigo secreto.
 - Si es necesario, hacer clic en "Reiniciar" para comenzar de nuevo.
 
+En los archivos se encuentra un video (amigo secreto) de como funciona el aplicativo web
+
   
